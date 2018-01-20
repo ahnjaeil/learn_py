@@ -1,2 +1,4 @@
 # learn_py
-Learning python
+Learning python with REST API.
+
+
